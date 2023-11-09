@@ -238,7 +238,7 @@ class UserInfoWidget extends StatelessWidget {
             mainAxisSize: MainAxisSize.min,
             children: [
               Center(
-                child: Text('ALIX RODRIGUEZ ✌🏻️'),
+                child: Text('ALIX RODRIGUEZ ✌🏻️ AND FABIAN ALARCON ✌🏻'),
               )
             ],
           ), 
